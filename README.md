@@ -1,10 +1,11 @@
-# Planet Drone
 Forked from [Erik Oostveen's module](https://github.com/ErikOostveen/PlanetDrone).
 
 Will cook my own meal when SC0510s are available again. 
 
 
-> # ![Planet Drone Module](https://www.erikoostveen.co.uk/assets/img/portfolio/item-3--github.jpg)
+> # Planet Drone
+>
+> (...)
 > 
 > &#9642; PCBWay
 >
