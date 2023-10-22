@@ -1,10 +1,19 @@
+# Planet Drone
+
 Forked from [Erik Oostveen's module](https://github.com/ErikOostveen/PlanetDrone).
 
 Will cook my own meal when SC0510s are available again. 
 
-Changes so far: mirrored default .scd files in `/supercollider/factory`. 
+Changes so far: 
+- mirrored default .scd files in `/supercollider/factory`
+- added website description of default patches in `/supercollider/factory`
+- started to move factory files into their respective folders
+- first attempt at a panel draft. Wip:
+  - .svg made in Inkscape, exported to Pcbnew using the Svg2Shenzhen plugin
+  - dimensions and scaling may be wrong (H ~ 128.4mm, scaling issues)
+  - not sure about the bargraph graphics alignment
+  - haven't made my mind about graphics on the left yet
 
-> # Planet Drone
 >
 > (...)
 > 
