@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "planetdrone_paneldraft")(type KiCad)(uri "$(KIPRJMOD)/planetdrone_paneldraft.pretty")(options "")(descr ""))
+)
