@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   viewBox="0 -960 960 960"
+   width="24"
+   version="1.1"
+   id="svg10438"
+   sodipodi:docname="half_filled_circle.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10442" />
+  <sodipodi:namedview
+     id="namedview10440"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="21.958333"
+     inkscape:cx="12.59203"
+     inkscape:cy="12"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10438" />
+  <path
+     d="m 880,-480 q 0,83 -31.5,156 -31.5,73 -85.5,127 -54,54 -127,85.5 Q 563,-80 480,-80 397,-80 324,-111.5 251,-143 197,-197 143,-251 111.5,-324 80,-397 80,-480 q 0,-83 31.5,-156 31.5,-73 85.5,-127 54,-54 127,-85.5 73,-31.5 156,-31.5 83,0 156,31.5 73,31.5 127,85.5 54,54 85.5,127 31.5,73 31.5,156 z m -83,-40 Q 782,-639 692.5,-719.5 603,-800 480,-800 357,-800 267.5,-719.5 178,-639 163,-520 Z"
+     id="path10436" />
+</svg>
