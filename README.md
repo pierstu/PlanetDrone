@@ -13,6 +13,7 @@ Changes so far:
   - dimensions and scaling may be wrong (H ~ 128.4mm, scaling issues)
   - not sure about the bargraph graphics alignment
   - haven't made my mind about graphics on the left yet
+    - 231023: trying out some tarot graphics
 
 >
 > (...)
